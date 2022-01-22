@@ -1,2 +1,1 @@
-- Hi, Im qwardel.
--Im currently learning java language.
+Hello World.
